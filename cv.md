@@ -33,3 +33,7 @@ function sum(a, b){
 
 I dont have work experience
 *******
+### Languages:
+* English - A1
+* Russian - Native
+* Deutsch - Basic
