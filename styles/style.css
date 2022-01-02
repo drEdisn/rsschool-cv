@@ -112,6 +112,19 @@ ul{
 .languages__list,
 .text__experience{
   font-size: 20px;
+  padding-bottom: 5px;
+}
+
+.text__experience-link{
+  color: inherit;
+  font-weight: bold;
+}
+
+.title_exp{
+  font-size: 20px;
+  line-height: 25px;
+  border-bottom: 1px solid #000;
+  margin-bottom: 10px;
 }
 
 .skills__list,
