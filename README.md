@@ -1,3 +1,4 @@
-# rsschool-cv
-https://drEdisn.github.io/rsschool-cv/cv
-https://drEdisn.github.io/rsschool-cv/
+# my-cv
+*********
+`CV .md` - https://drEdisn.github.io/rsschool-cv/cv   
+`CV .html` - https://drEdisn.github.io/rsschool-cv/
